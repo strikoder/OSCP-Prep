@@ -105,3 +105,7 @@ If this repository helped you during your OSCP journey, consider:
 Your support helps maintain open-source tooling, labs, notes, walkthroughs, and practical offensive security resources.
 
 👉 https://github.com/sponsors/strikoder
+
+## ❤️ Sponsors
+
+<!-- sponsors --><!-- sponsors -->

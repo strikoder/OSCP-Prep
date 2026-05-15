@@ -20,14 +20,14 @@ WIP
 
 ---
 
-## 📚 OSCP Notes, CTFs & Machine References
+## 📚 OSCP Notes, CTFs & Machine References (Strilist - OSCP)
 
 Browse OSCP-related notes, commands, techniques, walkthrough references, and searchable machine resources:
 
 - https://strikoder.com/oscp
 - https://github.com/strikoder/CTFS
 
-> Tip: Use the tags on https://strikoder.com/oscp to search by topic, then cross-reference commands and methodology with the CTF repository to find practical usage examples on specific machines.
+> Tip: Use the tags on https://strikoder.com/oscp to search by topic, then cross-check the techniques, commands, and methodology with the machines listed in Strilist - OSCP to see practical usage examples on specific targets.
 
 ---
 

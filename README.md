@@ -12,6 +12,14 @@ If this project helps you, consider supporting my work:
 
 ---
 
+---
+
+## Exam review
+
+WIP
+
+---
+
 ## 📚 OSCP Notes, CTFs & Machine References
 
 Browse OSCP-related notes, commands, techniques, walkthrough references, and searchable machine resources:

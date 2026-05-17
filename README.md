@@ -4,23 +4,16 @@ Practical OSCP preparation resources, tooling, notes, walkthrough references, an
 
 ---
 
-## ☕ Support
+## Exam Review
 
-If this project helps you, consider supporting my work:
+OSCP review, preparation strategy, methodology, lessons learned, and exam experience:
 
-- https://strikoder.com/coffee
-
----
-
----
-
-## Exam review
-
-WIP
+- YouTube (long version): https://www.youtube.com/watch?v=9HFKfGs6ym8
+- Medium (short text version): https://medium.com/@strikoder/strikoder-oscp-review-47f9f6efb25e
 
 ---
 
-## 📚 OSCP Notes, CTFs & Machine References (Strilist - OSCP)
+## OSCP Notes, CTFs & Machine References (Strilist - OSCP)
 
 Browse OSCP-related notes, commands, techniques, walkthrough references, and searchable machine resources:
 
@@ -31,9 +24,9 @@ Browse OSCP-related notes, commands, techniques, walkthrough references, and sea
 
 ---
 
-## 📝 SysReptor Setup
+## SysReptor Setup
 
-📺 Video walkthrough:  
+Video walkthrough:  
 https://youtu.be/dT7XgN8uuSU
 
 To install and run the setup script in one command:
@@ -55,17 +48,16 @@ bash <(curl -fsSL https://raw.githubusercontent.com/strikoder/OSCP-Prep/main/Rep
 
 ---
 
-## 💣 CVE Resources
+## CVE Resources
 
 Public exploit references, PoCs, and vulnerability research collections:
 
 - https://github.com/stars/strikoder/lists/cve-poc-implementations
 - https://github.com/strikoder/OffensiveSecurity/tree/main/CVES
 
-
 ---
 
-## 🧰 Useful Windows Binaries
+## Useful Windows Binaries
 
 Curated Windows binaries commonly useful during assessments and labs:
 
@@ -73,7 +65,15 @@ Curated Windows binaries commonly useful during assessments and labs:
 
 ---
 
-## ⚒️ Custom Tools
+## Active Directory Enumeration Scripts
+
+Collection of Active Directory enumeration scripts and recon helpers:
+
+- https://github.com/strikoder/OffensiveSecurity/tree/main/Scripts/enum
+
+---
+
+## Custom Tools
 
 Custom-built offensive security tools for enumeration, credential validation, spraying, and privilege escalation.
 
@@ -94,11 +94,19 @@ Custom-built offensive security tools for enumeration, credential validation, sp
 
 ---
 
-## 🎯 Pentesting Interview Questions
+## Pentesting Interview Questions
 
 Common penetration testing and offensive security interview questions:
 
 - https://github.com/strikoder/pentest-interview-questions
+
+---
+
+## ☕ Support
+
+If this project helps you, consider supporting my work:
+
+- https://strikoder.com/coffee
 
 ---
 
@@ -113,6 +121,8 @@ If this repository helped you during your OSCP journey, consider:
 Your support helps maintain open-source tooling, labs, notes, walkthroughs, and practical offensive security resources.
 
 👉 https://github.com/sponsors/strikoder
+
+---
 
 ## ❤️ Sponsors
 
